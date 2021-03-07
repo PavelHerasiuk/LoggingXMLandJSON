@@ -1,0 +1,30 @@
+2021-03-07 16:56:50,900 INFO  [main] util.PropertiesUtil (PropertiesUtil.java:18) - Properties have been gotten
+2021-03-07 16:56:51,229 INFO  [main] util.PropertiesUtil (PropertiesUtil.java:21) - File config.properties have been read
+2021-03-07 16:56:51,231 INFO  [main] util.PropertiesUtil (PropertiesUtil.java:18) - Properties have been gotten
+2021-03-07 16:56:51,235 INFO  [main] util.PropertiesUtil (PropertiesUtil.java:21) - File config.properties have been read
+2021-03-07 16:56:51,245 TRACE [main] example.FileNameHandler (FileNameHandler.java:27) - Start trace
+2021-03-07 16:56:51,250 INFO  [main] example.FileNameHandler (FileNameHandler.java:28) - Entering application.
+2021-03-07 16:56:51,253 INFO  [main] util.PropertiesUtil (PropertiesUtil.java:18) - Properties have been gotten
+2021-03-07 16:56:51,257 INFO  [main] util.PropertiesUtil (PropertiesUtil.java:21) - File config.properties have been read
+2021-03-07 16:56:51,267 INFO  [main] service.FileService (FileService.java:45) - Checking oldName1...
+2021-03-07 16:56:51,271 INFO  [main] service.FileService (FileService.java:48) - D:\Projects_Lab_UpSkill\LoggingXMLandJSON\src\main\resources\configs\old_name1.json - true
+2021-03-07 16:56:51,273 INFO  [main] service.FileService (FileService.java:49) - Rename oldName1...
+2021-03-07 16:56:51,283 INFO  [main] service.FileService (FileService.java:30) - oldName1 have been renamed
+2021-03-07 16:56:51,286 INFO  [main] service.FileService (FileService.java:34) - Checking oldName2...
+2021-03-07 16:56:51,295 INFO  [main] service.FileService (FileService.java:37) - D:\Projects_Lab_UpSkill\LoggingXMLandJSON\src\main\resources\configs\old_name2.json - true
+2021-03-07 16:56:51,307 INFO  [main] service.FileService (FileService.java:38) - Rename oldName2...
+2021-03-07 16:56:51,314 INFO  [main] service.FileService (FileService.java:25) - oldName2 have been renamed
+2021-03-07 16:56:51,327 INFO  [main] example.FileNameHandler (FileNameHandler.java:43) - [old_name1.json, old_name2.json][new_name1.json, new_name2.json]
+2021-03-07 16:56:51,830 INFO  [main] example.FileNameHandler (FileNameHandler.java:48) - Application closed.
+2021-03-07 16:56:51,831 TRACE [main] example.FileNameHandler (FileNameHandler.java:49) - End trace
+2021-03-07 16:56:51,834 TRACE [main] example.FileNameHandler (FileNameHandler.java:27) - Start trace
+2021-03-07 16:56:51,835 INFO  [main] example.FileNameHandler (FileNameHandler.java:28) - Entering application.
+2021-03-07 16:56:51,837 INFO  [main] util.PropertiesUtil (PropertiesUtil.java:18) - Properties have been gotten
+2021-03-07 16:56:51,840 INFO  [main] util.PropertiesUtil (PropertiesUtil.java:21) - File config.properties have been read
+2021-03-07 16:56:51,841 INFO  [main] service.FileService (FileService.java:45) - Checking oldName1...
+2021-03-07 16:56:51,843 INFO  [main] service.FileService (FileService.java:51) - D:\Projects_Lab_UpSkill\LoggingXMLandJSON\src\main\resources\configs\old_name1.json - false
+2021-03-07 16:56:51,845 INFO  [main] service.FileService (FileService.java:34) - Checking oldName2...
+2021-03-07 16:56:51,847 INFO  [main] service.FileService (FileService.java:40) - D:\Projects_Lab_UpSkill\LoggingXMLandJSON\src\main\resources\configs\old_name2.json - false
+2021-03-07 16:56:51,849 INFO  [main] example.FileNameHandler (FileNameHandler.java:43) - [old_name1.json, old_name2.json][new_name1.json, new_name2.json]
+2021-03-07 16:56:51,857 INFO  [main] example.FileNameHandler (FileNameHandler.java:48) - Application closed.
+2021-03-07 16:56:51,859 TRACE [main] example.FileNameHandler (FileNameHandler.java:49) - End trace

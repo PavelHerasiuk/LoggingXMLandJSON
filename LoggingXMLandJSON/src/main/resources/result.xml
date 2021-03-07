@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<XMLData>
+    <configFileName>config.xml</configFileName>
+    <executionTime>83</executionTime>
+    <files>[old_name1.json, old_name2.json][new_name1.json, new_name2.json]</files>
+</XMLData>

@@ -1,0 +1,363 @@
+[
+{
+  "timeMillis" : 1615125410900,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.util.PropertiesUtil",
+  "message" : "Properties have been gotten",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411229,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.util.PropertiesUtil",
+  "message" : "File config.properties have been read",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411231,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.util.PropertiesUtil",
+  "message" : "Properties have been gotten",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411235,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.util.PropertiesUtil",
+  "message" : "File config.properties have been read",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411245,
+  "thread" : "main",
+  "level" : "TRACE",
+  "loggerName" : "by.logger.example.FileNameHandler",
+  "message" : "Start trace",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411250,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.FileNameHandler",
+  "message" : "Entering application.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411253,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.util.PropertiesUtil",
+  "message" : "Properties have been gotten",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411257,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.util.PropertiesUtil",
+  "message" : "File config.properties have been read",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411267,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.service.FileService",
+  "message" : "Checking oldName1...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411271,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.service.FileService",
+  "message" : "D:\\Projects_Lab_UpSkill\\LoggingXMLandJSON\\src\\main\\resources\\configs\\old_name1.json - true",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411273,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.service.FileService",
+  "message" : "Rename oldName1...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411283,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.service.FileService",
+  "message" : "oldName1 have been renamed",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411286,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.service.FileService",
+  "message" : "Checking oldName2...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411295,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.service.FileService",
+  "message" : "D:\\Projects_Lab_UpSkill\\LoggingXMLandJSON\\src\\main\\resources\\configs\\old_name2.json - true",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411307,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.service.FileService",
+  "message" : "Rename oldName2...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411314,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.service.FileService",
+  "message" : "oldName2 have been renamed",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411327,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.FileNameHandler",
+  "message" : "[old_name1.json, old_name2.json][new_name1.json, new_name2.json]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411830,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.FileNameHandler",
+  "message" : "Application closed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411831,
+  "thread" : "main",
+  "level" : "TRACE",
+  "loggerName" : "by.logger.example.FileNameHandler",
+  "message" : "End trace",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411834,
+  "thread" : "main",
+  "level" : "TRACE",
+  "loggerName" : "by.logger.example.FileNameHandler",
+  "message" : "Start trace",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411835,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.FileNameHandler",
+  "message" : "Entering application.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411837,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.util.PropertiesUtil",
+  "message" : "Properties have been gotten",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411840,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.util.PropertiesUtil",
+  "message" : "File config.properties have been read",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411841,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.service.FileService",
+  "message" : "Checking oldName1...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411843,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.service.FileService",
+  "message" : "D:\\Projects_Lab_UpSkill\\LoggingXMLandJSON\\src\\main\\resources\\configs\\old_name1.json - false",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411845,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.service.FileService",
+  "message" : "Checking oldName2...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411847,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.service.FileService",
+  "message" : "D:\\Projects_Lab_UpSkill\\LoggingXMLandJSON\\src\\main\\resources\\configs\\old_name2.json - false",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411849,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.FileNameHandler",
+  "message" : "[old_name1.json, old_name2.json][new_name1.json, new_name2.json]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411857,
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "by.logger.example.FileNameHandler",
+  "message" : "Application closed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+, {
+  "timeMillis" : 1615125411859,
+  "thread" : "main",
+  "level" : "TRACE",
+  "loggerName" : "by.logger.example.FileNameHandler",
+  "message" : "End trace",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "myCustomField" : "myCustomValue"
+}
+
+]

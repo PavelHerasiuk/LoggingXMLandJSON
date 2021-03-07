@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="file1">D:\Projects_Lab_UpSkill\LoggingXMLandJSON\src\main\resources\configs\old_name1.json</entry>
+    <entry key="file2">D:\Projects_Lab_UpSkill\LoggingXMLandJSON\src\main\resources\configs\old_name2.json</entry>
+    <entry key="path">D:\Projects_Lab_UpSkill\LoggingXMLandJSON\src\main\resources\configs\</entry>
+    <entry key="suffix">new</entry>
+    <entry key="ResultFileJson">json</entry>
+    <entry key="ResultFileXml">xml</entry>
+</properties>
